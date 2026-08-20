@@ -1,0 +1,12 @@
+name: telacebec_affinity
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - openmm=8.2.0
+  - cudatoolkit=11.8
+  - ambertools
+  - pandas
+  - numpy
+  - mdanalysis
