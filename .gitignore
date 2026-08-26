@@ -1,5 +1,5 @@
 # Ignore raw data folder
-\data
+/data/raw_data
 
 # Ignore R Project files
 *.Rproj*
